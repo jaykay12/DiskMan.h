@@ -1,0 +1,20 @@
+//------------------------------Generating Checks-----------------------------//
+
+For Compiling TestCases Codes:  g++ Check.cpp DiskMan.o
+For Running : ./a.out
+
+For Compiling Codes:  g++ Check.cpp DiskMan.o -o Check
+For Running : ./Check
+
+
+
+IMP: Replace "Check.cpp" with other testcases file names.
+
+
+//------------------------------Compiling the library-----------------------------//
+
+For building library Object File:
+g++ -o DiskMan.o -c DiskMan.cpp
+
+
+

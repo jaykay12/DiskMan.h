@@ -1,0 +1,9 @@
+For Compiling Codes:  g++ FCFS.cpp
+For Running : ./a.out
+
+For Compiling Codes:  g++ FCFS.cpp -o FCFS
+For Running : ./FCFS
+
+
+
+IMP: Replace "FCFS.cpp" with other file names.
